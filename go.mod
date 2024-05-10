@@ -3,7 +3,7 @@ module github.com/RuthDianaPurnamasari/ws-ruth-ats
 go 1.22.1
 
 require (
-	github.com/RuthDianaPurnamasari/package_ats v0.0.1
+	github.com/RuthDianaPurnamasari/package_ats v0.0.2
 	github.com/aiteung/atdb v0.1.7
 	github.com/aiteung/musik v0.0.5
 	github.com/gofiber/fiber/v2 v2.52.4
